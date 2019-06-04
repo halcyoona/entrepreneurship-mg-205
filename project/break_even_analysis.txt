@@ -1,0 +1,21 @@
+Break Even Analysis in economics, business, and cost accounting refers to the point in which total cost and total revenue are equal. A break even point analysis is used to determine the number of units or dollars of revenue needed to cover total costs (fixed and variable costs).
+Formula for Break Even Analysis
+
+The formula for break even analysis is as follows:
+
+Break even quantity = Fixed costs / (Sales price per unit – Variable cost per unit)
+
+Where:
+
+    Fixed costs are costs that do not change with varying output (i.e. salary, rent, building machinery).
+    Sales price per unit is the selling price (unit selling price) per unit.
+    Variable cost per unit is the variable costs incurred to create a unit.
+
+
+Graphically Representing the Break Even Point
+
+The graphical representation of unit sales and dollar sales needed to break even is referred to as the break even chart or Cost Volume Profit (CVP) graph. Below is the CVP graph of the example above:
+
+ 
+
+Break even point analysis Chart
